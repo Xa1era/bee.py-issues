@@ -1,5 +1,5 @@
 `Ru and En`
-# dee.py-issues
+# bee.py-issues
 This repository cretead only for issues.
 If you detected some bug in work with bee.py, just create new issue with this bug.
 ## Bug descriptions
